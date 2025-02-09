@@ -1,5 +1,3 @@
-# MicroprocessorTechnology
-
 # Weather Station Project on FRDM-KL05Z Board
 
 ## Project Overview
